@@ -1,0 +1,35 @@
+a {
+    color: crimson;
+    text-decoration: none;
+}
+
+blockquote {
+    background-color: #eaeaea;
+}
+
+.fonts {
+    color: crimson;
+    font-weight: bold;
+}
+
+.link a {
+    color: crimson;
+}
+
+.lato {
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
+}
+
+.pt {
+    font-family: 'PT Serif', serif;
+}
+
+#cta {
+    color: crimson;
+    font-family: 'Lato', sans-serif;
+}
+
+ul li:nth-child(odd) {
+    text-decoration: underline;
+}
