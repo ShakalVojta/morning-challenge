@@ -1,9 +1,9 @@
-a {
+nav a {
     color: crimson;
     text-decoration: none;
 }
 
-blockquote {
+.about blockquote {
     background-color: #eaeaea;
 }
 
@@ -12,17 +12,19 @@ blockquote {
     font-weight: bold;
 }
 
-.link a {
+.creators a {
     color: crimson;
+    text-decoration: none;
 }
 
 .lato {
     font-family: 'Lato', sans-serif;
-    text-decoration: none;
+    font-weight: bold;
 }
 
 .pt {
     font-family: 'PT Serif', serif;
+    font-weight: bold;
 }
 
 #cta {
